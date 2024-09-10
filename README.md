@@ -2,4 +2,4 @@
 
 ### Aqui tendré tanto los codigos que estoy aprendiendo como los proyectos en los que esoty trabajando.
 
-![](https://pin.it/2d2a8n4DF)
+![](<iframe src="https://assets.pinterest.com/ext/embed.html?id=887349932816233150" height="354" width="450" frameborder="0" scrolling="no" ></iframe>)
