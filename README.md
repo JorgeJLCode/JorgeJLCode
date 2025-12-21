@@ -21,6 +21,6 @@ Soy un desarrollador de software enfocado en crear arquitecturas limpias, escala
 ---
 
 ### 📫 Contacto
-* 🌍[LinkedIn] (www.linkedin.com/in/jorge-luques-astorga)
-* Email: (jl.code007@gmail.com)
+* 🌍[LinkedIn] www.linkedin.com/in/jorge-luques-astorga
+* Email: jl.code007@gmail.com
 * 💼
