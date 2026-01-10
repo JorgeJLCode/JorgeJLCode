@@ -17,7 +17,7 @@ Combino la lógica robusta del servidor con interfaces visuales funcionales.
 * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript (ES6+):** Lógica de cliente.
 
 **⚙️ Backend & Core**
-* ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java (11+):** Lógica de negocio sólida.
+* ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java (17+):** Lógica de negocio sólida.
 * ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) **Spring Boot:** APIs RESTful escalables.
 * ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **Base de Datos:** Gestión relacional.
 
