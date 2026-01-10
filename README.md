@@ -21,7 +21,8 @@ Combino la lógica robusta del servidor con interfaces visuales funcionales.
 * ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) **Spring Boot:** APIs RESTful escalables.
 * ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **Base de Datos:** Gestión relacional.
 
-**🤖 AI & Nuevas Tecnologías (En formación)**
+### 🌱 Expanding Horizons
+Actualmente estoy ampliando mi arsenal técnico con:
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python:** Scripting e IA.
 * ![AI](https://img.shields.io/badge/AI-Generative-blueviolet?style=flat-square) **AI Integration:** Uso de LLMs y automatización.
 
