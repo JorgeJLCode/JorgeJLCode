@@ -10,7 +10,7 @@ Combino la lógica robusta del servidor con interfaces visuales funcionales.
 
 ### 🛠 Tech Stack
 
-**💻 Frontend & Web (Mi pasión)**
+**💻 Frontend & Web**
 * ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) **React:** Desarrollo de interfaces modernas y dinámicas.
 * ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5:** Estructura semántica.
 * ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3:** Diseño y maquetación responsive.
