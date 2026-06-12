@@ -24,7 +24,7 @@ Combino la lógica robusta del servidor con interfaces visuales funcionales.
 ### 🌱 Expanding Horizons
 Actualmente estoy ampliando mi arsenal técnico con:
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python:** Scripting e IA.
-* ![AI](https://img.shields.io/badge/AI-Generative-blueviolet?style=flat-square) **AI Integration:** Uso de LLMs y automatización.
+* ![AI](https://img.shields.io/badge/AI-Generative-blueviolet?style=flat-square) **AI Integration:** Uso IA para desarrollar software más rápido.
 
 **🔧 Herramientas**
 * ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
