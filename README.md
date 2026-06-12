@@ -1,6 +1,6 @@
 # Hola, soy Jorge Astorga 👋
 
-**Full Stack Developer | Java, React & AI**
+**Java Developer | Spring Boot | Full-Stack Development**
 
 Soy un desarrollador **Full Stack** con base sólida en Backend (Java/Spring) y pasión por el desarrollo Web (React). Actualmente, estoy evolucionando mi perfil integrando herramientas de **Inteligencia Artificial** para crear software moderno y eficiente.
 
